@@ -50,5 +50,4 @@ def test_roman_integer():
         print(f"{key} calculate value {get_roman_to_number(key)} {value}")
 
 
-# test_roman_integer()
-print(get_roman_to_number("lxxxviii"))
+test_roman_integer()
